@@ -1,7 +1,8 @@
+<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/RKMF.gif](https://i.gifer.com/RKMF.gif)" />
+
 <h1>Hi 👋, I'm Anastasia</h1>
 <h3>☀️Optimistic && inspired frontend developer</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=it-sun-code&label=Profile%20views&color=0e75b6&style=flat" alt="it-sun-code" /> </p>
-
 
 - 💡 I’m currently working on: [online store of custom keyboards](https://github.com/IT-sun-code/Custom-keyboards.git)
 - 🌱 I’m currently learning: **advanced hooks in React, Redux, Databases, Python**
