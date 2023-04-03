@@ -2,12 +2,15 @@
 <h3>☀️Optimistic && inspired frontend developer</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=it-sun-code&label=Profile%20views&color=0e75b6&style=flat" alt="it-sun-code" /> </p>
 
-    💡 I’m currently working on: [online store of custom keyboards](https://github.com/IT-sun-code/Custom-keyboards.git)
-    🌱 I’m currently learning: **advanced hooks in React, Redux, Databases, Python**
-    💬 Ask me about: **HTML5, CSS3, JavaScript, React, Figma, new technologies**
-    📫 How to reach me: **orochimaro969@yandex.ru**
-    💪 Team leadership experience for 4 people in a hackathon: [https://github.com/IT-sun-code/1-hackathon-plugin.git](https://github.com/IT-sun-code/1-hackathon-plugin.git)
-    👀 Fun fact: **I've moved from design to programming**
+
+- 💡 I’m currently working on: [online store of custom keyboards](https://github.com/IT-sun-code/Custom-keyboards.git)
+- 🌱 I’m currently learning: **advanced hooks in React, Redux, Databases, Python**
+- 💬 Ask me about: **HTML5, CSS3, JavaScript, React, Figma, new technologies**
+- 📫 How to reach me: **orochimaro969@yandex.ru**
+- 💪 Team leadership experience for 4 people in a hackathon: [https://github.com/IT-sun-code/1-hackathon-plugin.git](https://github.com/IT-sun-code/1-hackathon-plugin.git)
+
+
+- 👀 Fun fact: **I've moved from design to programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
