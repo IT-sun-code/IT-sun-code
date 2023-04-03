@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/RKMF.gif](https://i.gifer.com/RKMF.gif)" />
+[![MasterHead](https://i.pinimg.com/originals/90/98/af/9098af46618ae23b66ff6f078f90e72f.png)](https://IT-sun-code.io)
 
 <h1>Hi 👋, I'm Anastasia</h1>
 <h3>☀️Optimistic && inspired frontend developer</h3>
