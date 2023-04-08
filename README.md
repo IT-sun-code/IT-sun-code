@@ -14,7 +14,7 @@
 <h3 align="left">Other ways to contact me:</h3>
 <p align="left" class="align-bottom">
 <a href="https://discordapp.com/users/695697540732944475/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg" alt="it-sun" height="40" width="40" />
-<a href="https://t.me/ITo_sun" target="blank"><img align="center" src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png" alt="it-sun" height="50" width="50" />
+<a href="https://t.me/ITo_sun" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/47/737/png-transparent-telegram-message-chat-logo-rounded-social-media-icon.png" alt="it-sun" height="40" width="40" />
 <a href="https://codepen.io/ito-kinovari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ito-kinovari" height="40" width="40" />
 <a href="https://www.behance.net/it-sun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="it-sun" height="40" width="40" />
 </p>
@@ -29,6 +29,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/b0c61a6f54e70a0162e1ef05b04f1080ba988fdb78821dd16664568e7fef02d2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66312f566974656a732d6c6f676f2e7376672f3130333970782d566974656a732d6c6f676f2e7376672e706e67" alt="vite" width="40" height="40"/> </a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331509/npm.svg" alt="npm" width="40" height="40"/> </a>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
