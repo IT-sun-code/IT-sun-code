@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning: **advanced hooks in React, Redux, Databases, Python**
 - 💬 Ask me about: **HTML5, CSS3, JavaScript, React, Figma, new technologies**
 - 👀 Fun fact: **I've moved from design to programming**
-- 📫 How to reach me: **orochimaro969@yandex.ru** or **orochimaro969@gmail.com**
+- 📫 How to reach me: **anastasiia0kurilko@gmail.com**
 
 <h3 align="left">Other ways to contact me:</h3>
 <p align="left" class="align-bottom">
