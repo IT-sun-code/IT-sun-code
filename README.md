@@ -4,7 +4,7 @@
 <h3>☀️Optimistic && inspired frontend developer</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=it-sun-code&label=Profile%20views&color=0e75b6&style=flat" alt="it-sun-code" /> </p>
 
-- 💡 I’m currently working on: [online store of custom keyboards with Firebase](https://github.com/IT-sun-code/Custom-keyboards.git)and custom keyboards Full Stack with Node.js+Express(https://github.com/IT-sun-code/Custom-keyboards-Fullstack.git)
+- 💡 I’m currently working on: [online store of custom keyboards with Firebase](https://github.com/IT-sun-code/Custom-keyboards.git) and custom keyboards full stack with Node.js+Express(https://github.com/IT-sun-code/Custom-keyboards-Fullstack.git)
 - 💪 Team leadership experience for 4 people in a hackathon: [https://github.com/IT-sun-code/1-hackathon-plugin.git](https://github.com/IT-sun-code/1-hackathon-plugin.git)
 - 🌱 I’m currently learning: **advanced hooks in React, Redux, Databases, Python**
 - 💬 Ask me about: **HTML5, CSS3, JavaScript, React, Figma, new technologies**
