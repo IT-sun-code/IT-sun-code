@@ -1,14 +1,15 @@
 [![MasterHead](https://i.pinimg.com/originals/90/98/af/9098af46618ae23b66ff6f078f90e72f.png)](https://IT-sun-code.io)
 
-<h1>Hi 👋, I'm Anastasia</h1>
+<h1>Hi 👋, I'm Anastasiia</h1>
 <h3>☀️Optimistic && inspired frontend developer</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=it-sun-code&label=Profile%20views&color=0e75b6&style=flat" alt="it-sun-code" /> </p>
 
-- 💡 I’m currently working on: [online store of custom keyboards with Firebase](https://github.com/IT-sun-code/Custom-keyboards.git) and custom keyboards full stack with Node.js+Express(https://github.com/IT-sun-code/Custom-keyboards-Fullstack.git)
-- 💪 Team leadership experience for 4 people in a hackathon: [https://github.com/IT-sun-code/1-hackathon-plugin.git](https://github.com/IT-sun-code/1-hackathon-plugin.git)
-- 🌱 I’m currently learning: **advanced hooks in React, Redux, Databases, Python**
-- 💬 Ask me about: **HTML5, CSS3, JavaScript, React, Figma, new technologies**
-- 👀 Fun fact: **I've moved from design to programming**
+- 💡 I’m currently working on my portfolio and website for the laboratory of ITMO University
+- ✨ I recently completed projects: [online store of custom keyboards with Firebase](https://github.com/IT-sun-code/Custom-keyboards.git) and custom keyboards full stack with Node.js+Express(https://github.com/IT-sun-code/Custom-keyboards-Fullstack.git)
+- 💪 Team leadership experience for 5 people in a hackathon: [https://github.com/IT-sun-code/1-hackathon-plugin.git](https://github.com/IT-sun-code/1-hackathon-plugin.git)
+- 🌱 I’m currently learning: **React, Redux, Databases, Python**
+- 💬 Ask me about: **HTML5, CSS3, JavaScript, TypeScript, React, Figma, new technologies**
+- 👀 Interesting fact: **I've moved from design to programming**
 - 📫 How to reach me: **anastasiia0kurilko@gmail.com**
 
 <h3 align="left">Other ways to contact me:</h3>
